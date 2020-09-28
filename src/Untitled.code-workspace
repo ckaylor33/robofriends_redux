@@ -1,0 +1,22 @@
+{
+  "folders": [
+	{
+		"path": "../../../simplefolio"
+	},
+	{
+		"path": "../../../gatsby-simplefolio"
+	},
+	{
+		"path": ".."
+	},
+	{
+		"path": "../../Development /Closures and prototypal inheritence JS"
+	},
+	{
+		"path": "../../my-app"
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "simplefolio"
+  }
+}
